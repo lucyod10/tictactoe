@@ -9,7 +9,7 @@ This is my version of the game tic-tac-toe. Written in Javascript, CSS and HTML.
 
 ### Preview
 
-![Screenshot of game](images/tictactoe2.png)
+![Screenshot of game](images/screenshot_combined_01.png)
 
 ## Features
 
